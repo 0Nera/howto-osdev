@@ -1,0 +1,6 @@
+limine/
+*.o
+*.elf
+*.iso
+*.bin
+*.sys
